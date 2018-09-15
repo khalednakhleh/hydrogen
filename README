@@ -1,0 +1,6 @@
+This repository is still not finished. Graphs shown are not the desired graphs, due to the maximum number resolution being e-60. Program requires a resolution of e-120 to function correctly. I will get back to this repository once I include the decimal standard Python library.
+
+Hydpy 
+
+This program is to map an electron's location in a Hydrogen atom using Python 3.6.
+
